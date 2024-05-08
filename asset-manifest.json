@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binance-dashboard/static/css/main.192d9c12.css",
+    "main.js": "/binance-dashboard/static/js/main.4fe4fd44.js",
+    "static/js/453.f0beea1e.chunk.js": "/binance-dashboard/static/js/453.f0beea1e.chunk.js",
+    "index.html": "/binance-dashboard/index.html",
+    "main.192d9c12.css.map": "/binance-dashboard/static/css/main.192d9c12.css.map",
+    "main.4fe4fd44.js.map": "/binance-dashboard/static/js/main.4fe4fd44.js.map",
+    "453.f0beea1e.chunk.js.map": "/binance-dashboard/static/js/453.f0beea1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192d9c12.css",
+    "static/js/main.4fe4fd44.js"
+  ]
+}
