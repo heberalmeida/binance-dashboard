@@ -1,14 +1,20 @@
 # Binance Dashboard
 
-O Binance Dashboard é uma aplicação que se conecta à API da Binance para monitorar e exibir informações em tempo real. Ele oferece uma interface visual para rastrear e analisar o mercado de criptomoedas diretamente da Binance.
+O Binance Dashboard é uma aplicação que se conecta à API da Binance para monitorar e exibir informações em tempo real sobre o mercado de criptomoedas. Ele oferece uma interface visual para rastrear e analisar esses dados diretamente da Binance.
+
+## Demo
+Você pode acessar a versão demo do Binance Dashboard através do seguinte link: [Binance Dashboard Demo](https://heberalmeida.github.io/binance-dashboard/).
+```
+https://heberalmeida.github.io/binance-dashboard/
+```
 
 ## Pré-requisitos
 
-Este projeto requer Node.js versão `v18.19.0`. Certifique-se de ter esta versão instalada antes de prosseguir.
+Este projeto requer Node.js na versão `v18.19.0`. Certifique-se de ter esta versão instalada antes de prosseguir.
 
 ## Configuração
 
-Siga os passos abaixo para configurar o projeto em seu ambiente local.
+Para configurar o projeto em seu ambiente local, siga os passos abaixo:
 
 bash
 
